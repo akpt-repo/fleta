@@ -19,17 +19,17 @@ Përmbajtja
 
 
 #### ETH 
-Architecture of Territory Design https://topalovic.arch.ethz.ch/#mas-programme #Territory
-ETH Housing: https://wohnforum.arch.ethz.ch/en/publications/books.html #Housing #Planning
-Events from the Master in Urban and Territorial Design https://www.nsl.ethz.ch/en/master-of-advanced-studies-eth-epf-in-urban-and-territorial-design/ #Territory 
-Feral Atlas https://topalovic.arch.ethz.ch/Libraries/Lectures/Feral-Atlas-Anna-L-Tsing-In-Conversation-With-Marija-Maric-And-Nils-Guttler #Territory
-Future Cities Laboratory https://fcl.ethz.ch/research/fcl-phase2/archipelago-cities/extended-urbanisation/publications.html  #Territory
+[Architecture of Territory Design](https://topalovic.arch.ethz.ch/#mas-programme) # Territory
+[ETH Housing](https://wohnforum.arch.ethz.ch/en/publications/books.html) # Housing # Planning
+[Events from the Master in Urban and Territorial Design](https://www.nsl.ethz.ch/en/master-of-advanced-studies-eth-epf-in-urban-and-territorial-design/) # Territory 
+[Feral Atlas](https://topalovic.arch.ethz.ch/Libraries/Lectures/Feral-Atlas-Anna-L-Tsing-In-Conversation-With-Marija-Maric-And-Nils-Guttler) # Territory
+[Future Cities Laboratory](https://fcl.ethz.ch/research/fcl-phase2/archipelago-cities/extended-urbanisation/publications.html)  # Territory
 
-##Harvard 
-GSD: Public program https://www.gsd.harvard.edu/ #Design #Planning
-HKS: Bloomberg Harvard City Fellowship: https://www.cityleadership.harvard.edu/ #Governance #City
-Harvard Kennedy School Publications Faculty Research https://www.hks.harvard.edu/faculty-research/publications/publications-centers-initiatives #Governance
-HKS: Taubman Center for State and Local Government: https://www.hks.harvard.edu/centers/taubman/publications/policy-briefs #Governance #Policy
-Harvard Mellon Urban Initiative: https://mellonurbanism.harvard.edu/news-events #Planning
-Joint Center for Housing Studies https://www.jchs.harvard.edu/ #Housing #Planning
-Mahindra Humanities https://mahindrahumanities.fas.harvard.edu/urban-conversations #Planning
+#### Harvard 
+[GSD: Public program](https://www.gsd.harvard.edu/) # Design # Planning
+[HKS: Bloomberg Harvard City Fellowship](https://www.cityleadership.harvard.edu/) # Governance # City
+[Harvard Kennedy School Publications Faculty Research](https://www.hks.harvard.edu/faculty-research/publications/publications-centers-initiatives) # Governance
+[HKS: Taubman Center for State and Local Government](https://www.hks.harvard.edu/centers/taubman/publications/policy-briefs) # Governance # Policy
+[Harvard Mellon Urban Initiative](https://mellonurbanism.harvard.edu/news-events) # Planning
+[Joint Center for Housing Studies](https://www.jchs.harvard.edu/) # Housing # Planning
+[Mahindra Humanities] (https://mahindrahumanities.fas.harvard.edu/urban-conversations) # Planning
