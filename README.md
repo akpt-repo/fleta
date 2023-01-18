@@ -15,7 +15,7 @@ Përmbajtja
 ### Universitete 
 
 #### EPFL
-[Lab-U Laboratory of Urbanism] (https://www.epfl.ch/labs/lab-u/) # Planning # Territory
+[Lab-U Laboratory of Urbanism](https://www.epfl.ch/labs/lab-u/) # Planning # Territory
 
 
 #### ETH 
