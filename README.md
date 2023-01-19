@@ -59,3 +59,73 @@ Përmbajtja
 
 
 #### Cities@Tufts 
+[Cities@Tufts](https://shareable.net/cities-tufts/) # Planning
+
+
+### Databazat e botimeve te institucioneve
+
+
+[Agence Française De Développement AFD](https://www.afd.fr/en/ressources-accueil) # Development
+[Lincoln Land Institute](https://www.lincolninst.edu/publications) # Planning # Policy
+[World Bank](https://openknowledge.worldbank.org/) # Development
+[Local Governments for Sustainability ICLEI](https://iclei.org/publication/) # Planning # Climate 
+[International City/County Management Association](https://icma.org/publications-research) # City # Planning
+[Un Habitat Kosovo](https://unhabitat-kosovo.org/) # Planning
+[Urban Research Institute](https://uri.org.al/publication/) # Planning
+[UN in Albania Publications Database](https://albania.un.org/en/resources/publications) # Development
+[Qendra Marrëdhënie](https://www.qendra-m.org/en) # Planning # Design # Urbanism
+[CO-Plan](https://www.co-plan.org/en/publikimet/) # Planning
+[go2 albania](https://www.facebook.com/GO2AL/) # Planning
+[European Bank of Development](https://www.ebrd.com/work-with-us/project-finance/project-summary-documents.html?1=1&filterCountry=Albania) # Development
+[Albanian American Development Fund AADF News](http://aadf.org/news/) # Development 
+[Agjencia Shqiptare e Zhvillimit të Investimeve](https://www.aida.gov.al/sq/) # Development
+[Biblioteka e AKPT-së](https://planifikimi.gov.al/index.php?id=672) # Planning
+
+#### Fondi Shqiptar i Zhvillimit 
+[Harta e Investimeve](https://www.albaniandf.org/harta-e-investimeve/) # Development
+[Projekte](https://www.albaniandf.org/projekte/) # Development
+[Publikime](https://www.albaniandf.org/info-lajme/publikime/) # Development
+
+#### GIZ
+[Publications](https://www.giz.de/en/mediacenter/publications.html)  # Development # Planning 
+[Transformative Urban Mobility Initiative](https://www.transformative-mobility.org/campaigns/podcasts) # Planning # Mobility
+
+
+## Blogje 
+
+
+[8 80 cities](https://www.880cities.org/) # City # Child-friendly # Urbanism
+[Abitare](https://www.abitare.it/en/) # Design
+[All Things Urban](https://www.allthingsurban.net/) # Planning
+[Child Friendly Cities](https://childfriendlycities.org/) # Planning # Child-friendly # City
+[Child in the City](https://www.childinthecity.org/?gdpr=accept) # Planning # Child-friendly
+[Cities Today](https://cities-today.com/) # Planning # City
+[City Monitor](https://citymonitor.ai/) # Planning # City
+[Design Milk](https://design-milk.com/) # Design
+[Design Observer](https://designobserver.com/) # Design
+[Domus](https://www.domusweb.it/en.html) # Design
+[Human Transit](https://humantransit.org/) # Planning # Mobility
+[London Reconnections](https://www.londonreconnections.com/) # Planning # Mobility
+[Metropolis Magazine](https://metropolismag.com/) # Design
+[Millennial Cities](https://millennialcities.com/) # City
+[New Geography](https://www.newgeography.com/) # Geography # Planning # Territory
+[Next City](https://nextcity.org/) # Planning # City
+[Placemakingx](https://www.placemakingx.org/) # Placemaking
+[Planetizen](https://www.planetizen.com/) # Planning
+[Playful Planet](https://www.playfulplanet.org.uk/) # Planning # Child-friendly
+[Pop Up City](https://popupcity.net/) # Planning # Pop-up
+[Replica](https://replicahq.com/) # Planning # Policy # Analysis 
+[Resilient Cities Network](https://resilientcitiesnetwork.org/) # Planning # City # Climate
+[reSITE](https://www.resite.org/) # Urbanism # City 
+[Rethinking Childhood](https://rethinkingchildhood.com/) # Planning # Child-friendly
+[StreetsBlog USA](https://www.streetsblog.org/) # Planning # Mobility
+[Strong Towns Podcast](https://www.strongtowns.org/stmedia) # Planning # City
+[Surface Magazine](https://www.surfacemag.com/) # Design
+[The City at Eye Level](https://thecityateyelevel.com/) # Urbanism # City
+
+
+
+
+
+
+
