@@ -62,6 +62,7 @@ Përmbajtja
 [Cities@Tufts](https://shareable.net/cities-tufts/) # Planning
 
 
+
 ### Databazat e botimeve te institucioneve
 
 
@@ -89,6 +90,7 @@ Përmbajtja
 #### GIZ
 [Publications](https://www.giz.de/en/mediacenter/publications.html)  # Development # Planning 
 [Transformative Urban Mobility Initiative](https://www.transformative-mobility.org/campaigns/podcasts) # Planning # Mobility
+
 
 
 ## Blogje 
@@ -122,10 +124,86 @@ Përmbajtja
 [Strong Towns Podcast](https://www.strongtowns.org/stmedia) # Planning # City
 [Surface Magazine](https://www.surfacemag.com/) # Design
 [The City at Eye Level](https://thecityateyelevel.com/) # Urbanism # City
+[The City Fix](https://thecityfix.com/)#City
+[The Overhead Wire](https://theoverheadwire.com/) # Planning
+[Thinking City](https://thinkingcity.org/) # Planning # City
+[Topos Magazine](https://toposmagazine.com/) # Planning
+[UrbAct](https://urbact.eu/) # Planning # City
+[Urban Institute](https://www.urban.org/) # Planning # City
+[Urban Land Institute (ULI)](https://urbanland.uli.org/) # Planning # Policy
+[Urban Omnibus](https://urbanomnibus.net/) # City
 
 
 
+## Video 
+
+[Adam Something](https://www.youtube.com/channel/UCcvfHa-GHSOHFAjU0-Ie57A) # Planning # Urbanism
+[BicycleDutch](https://www.youtube.com/channel/UC67YlPrRvsO117gFDM7UePg) # Planning # Mobility
+[City Beautiful](https://www.youtube.com/c/CityBeautiful) # City # Urbanism # History
+[Climate Town](https://www.youtube.com/channel/UCuVLG9pThvBABcYCm7pkNkA) # Climate
+[donoteat01](https://www.youtube.com/user/donoteat01) # Urbanism
+[Not Just Bikes](https://www.youtube.com/c/NotJustBikes) # Planning # Mobility
+[Oh the Urbanity!](https://www.youtube.com/channel/UCN5CBM1NkqDYAHgS-AbgGHA) # Planning # City
+[Planetizen Courses](https://www.youtube.com/c/PlanetizenCourses) # Planning # Courses
+[Urban Mobility Explained (Youtube Channel)](https://www.youtube.com/channel/UC9cCBxQU1IjuRdiNtZqpxTg) # Planning # Mobility
+[UrbanNous](https://www.youtube.com/channel/UCRx_FG3E7fEDCzCywFcJp6g) # Urbanism
+[UrbanReviewSTL](https://www.urbanreviewstl.com/2021/12/youtube-channels-to-learn-about-urbanism-transit-climate-etc/) # Urbanism # Mobility # Climate
+[Vox Urbanism and Transportation Playlist](https://www.youtube.com/watch?v=cEsC5hNfPU4&list=PLJ8cMiYb3G5eYV70JW5qsI4t-qj1mw_vP&ab_channel=Vox) # Urbanism # Mobility
 
 
+
+## Podkaste
+
+[99% Invisible](https://99percentinvisible.org/) # Design
+[American Planning Association Podcast](https://www.planning.org/podcast/) # Planning
+[Better Planners Podcast](https://podcasts.apple.com/us/podcast/better-planners-podcast/id1459210982) # Planning
+[Cities at Tufts Podcast](https://shareable.net/cities-at-tufts-podcast/) # City # Planning # Urbanism
+[City of the Future](https://podcasts.apple.com/us/podcast/city-of-the-future/id1353905337) # City # Planning # Urbansim 
+[City Planning Matters](https://podcasts.apple.com/us/podcast/city-planning-matters/id1542408558) # City
+[City Road Podcast](https://cityroadpod.org/about/) # City
+[Civa Podcasts](https://audioboom.com/channels/5042017) # Planning # Design
+[Cognitive Urbanism](https://podcasts.apple.com/us/podcast/cognitive-urbanism/id950834981) # Urbanism
+[Extremities](https://anchor.fm/extremities) # Planning # City
+[Future of the American City](https://podcasts.apple.com/gb/podcast/future-of-the-american-city/id1459259486) # Urbanism # Design 
+[Gentrification Podcasts](https://blog.feedspot.com/gentrification_podcasts/?_src=blogbycategory) # Planning # Economy
+[Hustle and Bustle](https://podcasts.apple.com/au/podcast/hustle-bustle-podcast/id1577757208) # City
+[Isn’t that spatial](https://isntthatspatial.net/episodes) # Geography # Planning # Territory
+[KunstlerCast - Suburban Sprawl: A Tragic Comedy](https://podcasts.apple.com/us/podcast/kunstlercast-suburban-sprawl-a-tragic-comedy/id273772632) # Planning # City # Design 
+[Land Matters](https://podcasts.apple.com/us/podcast/land-matters/id1464810062) # Planning # Governance
+[Mapscaping](https://mapscaping.com/podcasts/) # Planning # Geography # GIS
+[MetroCouncil PlanIt](https://podcasts.apple.com/us/podcast/planit/id1211810458) # Planning
+[Minds behind maps](https://www.mindsbehindmaps.com/) # Planning # Geography # GIS
+[Monocle: The Urbanist](https://monocle.com/radio/shows/the-urbanist/) # City
+[PlanningXChange](https://podcasts.apple.com/au/podcast/planningxchange/id949263443?mt=2) # Planning # City
+[Reinventing Transport](https://www.reinventingtransport.org/p/podcast.html) # Planning # Mobility
+[Strong Towns](https://www.strongtowns.org/podcast) # City
+[Talking Headways: A Streetsblog Podcast](https://streetsblog.libsyn.com/) # Planning # Mobility # Urbanism 
+[Talking Transformation](https://anchor.fm/talking-transformation-po) # City
+[Technopolis](https://www.technopolispodcast.com/) # City
+[The Green Urbanist](https://podcasts.apple.com/dk/podcast/the-green-urbanist/id1521166054) # Planning # Urbanism # Climate
+[The Life-Sized Urbanism Podcast](https://podcasts.apple.com/us/podcast/the-life-sized-city-urbanism-podcast/id1437367607) # Urbanism
+[The Smart Community Podcast](https://mysmart.community/podcast/) # Planning
+[The Streets are Planning](https://www.thestreetsareplanning.com/) # Planning # Mobility
+[The Urban Lab](https://podcasts.apple.com/us/podcast/the-urban-lab/id1509260445) # Urbanism # Planning # City 
+[Tipar Zanor](https://www.youtube.com/@TiparZanor) # Design
+[Transformative Urban Mobility Initiative](https://www.transformative-mobility.org/campaigns/podcasts) # Planning # Mobility
+[Urban Broadcast Collective](https://soundcloud.com/user-669027099) # Planning # Design # Urbanism 
+[Urban Design Room](https://podcasts.apple.com/us/podcast/urban-design-room/id1439075642) # Planning # Urbanism # City 
+[Urban Echo](https://podcasts.apple.com/us/podcast/urban-echo/id1511084536) # Planning # Urbanism # City
+[Urban Eyes: Planning in Context](https://podcasts.apple.com/us/podcast/urban-eyes-planning-in-context/id1455009119) # Planning # Public Heath 
+[Urban Planning is Not Boring](https://podcasts.apple.com/us/podcast/urban-planning-is-not-boring/id1631872994) # Planning
+[Urban Political Podcast](https://urbanpolitical.podigee.io/) # Planning
+[Urban Resilience Dialogues](https://www.urbanresiliencedialogues.com/podcast) # Urbanism # Resilience
+[UrbCast](https://urbcast.pl/en/episodes/) # Urbanism # Planning # Development
+[URHere](https://www.urherepodcast.com/) # Planning # Geography # GIS
+[Very Spatial](https://veryspatial.com/) # Planning # Geography # GIS
+[The Scene from Above](https://scenefromabove.podbean.com/) # Planning # Geography # GIS
+
+
+
+## Institucione dhe Agjenci Shteterore te Planifikimit
+[Metropolitan Territorial and Planning Agency Network](http://www.mtpa-network.org/en/the-mtpa-global-network/)
+[Holande](https://pbl.nl/) 
+[Itali](https://www.agenziacoesione.gov.it/)
 
 
