@@ -25,6 +25,7 @@ Përmbajtja
 [Feral Atlas](https://topalovic.arch.ethz.ch/Libraries/Lectures/Feral-Atlas-Anna-L-Tsing-In-Conversation-With-Marija-Maric-And-Nils-Guttler) # Territory
 [Future Cities Laboratory](https://fcl.ethz.ch/research/fcl-phase2/archipelago-cities/extended-urbanisation/publications.html)  # Territory
 
+
 #### Harvard 
 [GSD: Public program](https://www.gsd.harvard.edu/) # Design # Planning
 [HKS: Bloomberg Harvard City Fellowship](https://www.cityleadership.harvard.edu/) # Governance # City
@@ -34,6 +35,7 @@ Përmbajtja
 [Joint Center for Housing Studies](https://www.jchs.harvard.edu/) # Housing # Planning
 [Mahindra Humanities] (https://mahindrahumanities.fas.harvard.edu/urban-conversations) # Planning
 
+
 #### Institute for Housing and Development Studies 
 [Staff Publications](https://www.ihs.nl/en/resources/ihs-publications/ihs-staff-publications) # Planning
 [Working Papers](https://www.ihs.nl/en/resources/ihs-publications/ihs-working-papers) # Planning
@@ -41,9 +43,19 @@ Përmbajtja
 [Occassional Papers](https://www.ihs.nl/en/resources/ihs-publications/ihs-occasional-papers) # Planning
 [Thesis Series](https://www.ihs.nl/en/resources/ihs-publications/ihs-thesis-series) # Planning
 
-#### Toronto Metropolitan University (TMU)
-[Brownsfield research lab](https://www.brownfieldsresearchlab.com/work/current/)
-[City Building TMU](https://www.torontomu.ca/city-building/)
-[Theses from TMU](https://rshare.library.ryerson.ca/td-ud)
-[Together Design Lab](https://www.togetherdesignlab.com/)
 
+#### Toronto Metropolitan University (TMU)
+[Brownsfield Research Lab](https://www.brownfieldsresearchlab.com/work/current/) # Natural systems
+[City Building TMU](https://www.torontomu.ca/city-building/) # Planning
+[Theses from TMU](https://rshare.library.ryerson.ca/td-ud) # Theses # Planning
+[Together Design Lab](https://www.togetherdesignlab.com/) # Housing # Planning # Community Engagement
+[Transform Lab](https://transformlab.torontomu.ca/reports-2/) # Mobility # Planning
+
+
+#### TU Berlin
+[Habitat Unit](http://habitat-unit.de/en/research/#themes)
+[Student Theses](https://www.tu.berlin/en/planen-bauen-umwelt/urbanmanagement/people-contacts/students) # Planning # Theses
+[Urban Rural Assembly](https://urbanruralassembly.com/en) # Territory
+
+
+#### Cities@Tufts 
