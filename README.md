@@ -19,7 +19,7 @@ Përmbajtja
 
 
 #### ETH 
-[Architecture of Territory Design](https://topalovic.arch.ethz.ch/#mas-programme) # Territory
+[Architecture of Territory Design](https://topalovic.arch.ethz.ch/#mas-programme) # Territory \n
 [ETH Housing](https://wohnforum.arch.ethz.ch/en/publications/books.html) # Housing # Planning
 [Events from the Master in Urban and Territorial Design](https://www.nsl.ethz.ch/en/master-of-advanced-studies-eth-epf-in-urban-and-territorial-design/) # Territory 
 [Feral Atlas](https://topalovic.arch.ethz.ch/Libraries/Lectures/Feral-Atlas-Anna-L-Tsing-In-Conversation-With-Marija-Maric-And-Nils-Guttler) # Territory
